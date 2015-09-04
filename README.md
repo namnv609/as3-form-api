@@ -1,2 +1,3 @@
-# as3-form-api
-Simple AS3 Form + Validation + API
+#Simple AS3 Form + Validation + API
+
+__Documentation and example will coming soon...__
